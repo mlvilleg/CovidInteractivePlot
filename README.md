@@ -5,8 +5,6 @@ Hello, I'm Marc! I have a Bachelors in Managerial Economics and Statistics from 
 I also have internship experience at CalPERS where I fist developed real world experience dealing with economic data indicators which I believe will be valuable experience in any data related role.
 In my free time I enjoy learning about different data technologies and developing my data analysis skills. I enjoy working with others and communicating insights and turning it into actionable future oriented plans.
 
-My CV in pdf.
-
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
