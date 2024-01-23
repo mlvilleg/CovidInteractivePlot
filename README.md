@@ -49,5 +49,6 @@ Georgia Institute of Technology: Master of Science - Computer Science, January 2
 University of California, Davis: Bachelors of Science - Manageria Economics, Bachelors of Arts - Statistics, September 2016 - December 2020
 
 ## Contacts
-LinkedIn: @tiannaparris
+LinkedIn: [@MarcVillegas](https://www.linkedin.com/in/marc-villegas-abaa4b129)
+
 Email: mlvillegas@ucdavis.edu
