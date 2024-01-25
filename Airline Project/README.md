@@ -15,6 +15,10 @@ In this project I showcased my data manipulation and data visualization skills u
 
 The final output shows the airlines with the most gains from cancellations and changed bookings.
 
+![](gain_plot.png)
+
 
 
 And it also shows airlines with the most losses from cancellations and changes bookings
+
+![](loss_plot.png)
