@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-- [Portfolio Projects](Portfolio%20Projects)
+- [Portfolio Projects](#portfolio-projects)
   - Python
     - Analyzing the Factors Contributing to the Success of a Movie
     - Tech Store Sales Analysis
