@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-- [Portfolio Projects](#portfolio-projects)
+- Portfolio Projects
   - Python
     - [Airline Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/tree/main/Airline%20Project)
     - [Supervised Learning Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/tree/main/Supervised%20Learning)
@@ -21,25 +21,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Data Analyst Excel Project.xlsx](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Data%20Analyst%20Excel%20Project.xlsx)
     - [Excel Test](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Marc%20Villegas_Excel%20Test.xlsx)
     - [Marketing Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Marketing%20Project.xlsx)
-
-#### Contact
-
-## Portfolio Projects
-
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-### Analyzing the Factors Contributing to the Success of a Movie
-Code: Analyzing the Factors Contributing to the Success of a Movie.ipynb
-
-#### Goal: To determine what factors contribute the most to a movie's success.
-
-#### Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
-
-#### Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-
-#### Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-#### Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+   
+- [Education](#Education)
+- [Contact Information](#Contacts)
 
 
 ## Education
