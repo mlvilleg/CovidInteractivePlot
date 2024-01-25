@@ -11,17 +11,16 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - Analyzing the Factors Contributing to the Success of a Movie
-    - Tech Store Sales Analysis
+    - [Airline Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/tree/main/Airline%20Project)
+    - [Supervised Learning Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/tree/main/Supervised%20Learning)
 
-- SQL
-  - Covid 19 Data Exploration
+  - R
+    - [Covid Cases Visualization](CovidVisualizationProj)
 
-
-- R
-  - [Covid Cases Visualization](CovidVisualizationProj)
-
-- Excel / Google Sheets
+  - Excel / Google Sheets
+    - [Data Analyst Excel Project.xlsx](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Data%20Analyst%20Excel%20Project.xlsx)
+    - [Excel Test](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Marc%20Villegas_Excel%20Test.xlsx)
+    - [Marketing Project](https://github.com/mlvilleg/Data-Analyst-Porfolio/blob/main/Excel%20Projects/Marketing%20Project.xlsx)
 
 #### Contact
 
