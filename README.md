@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-- [Portfolio Projects](docs/Contact.md)
+- [Portfolio Projects]()
   - Python
     - Analyzing the Factors Contributing to the Success of a Movie
     - Tech Store Sales Analysis
@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 - R
-  - Legendary Pokémon Analysis (Study Project)
+  - [Covid Cases Visualization](CovidVisualizationProj)
 
 - Excel / Google Sheets
 
