@@ -123,5 +123,4 @@ saveWidget(plott,"Cases.html",selfcontained = FALSE)
 h = xmlRoot(doc)[["head"]]
 sapply( c('HideLines.js'),function(f) newXMLNode("script", attrs = c(src = f), parent = h))
 
-saveXML(doc,"CalCovid.html")
-
+saveXML(doc,"Cases.html")
