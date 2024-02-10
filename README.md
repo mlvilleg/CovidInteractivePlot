@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ## Education
-Georgia Institute of Technology: Master of Science - Computer Science, January 2024 - May 2026
+Georgia Institute of Technology: Master of Science - Computer Science, January 2024 - May 2027 (Expected)
 
 University of California, Davis: Bachelors of Science - Manageria Economics, Bachelors of Arts - Statistics, September 2016 - December 2020
 
