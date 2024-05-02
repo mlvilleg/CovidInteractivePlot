@@ -34,4 +34,4 @@ University of California, Davis: Bachelors of Science - Manageria Economics, Bac
 ## Contacts
 LinkedIn: [@MarcVillegas](https://www.linkedin.com/in/marc-villegas-abaa4b129)
 
-Emails: mvillegas34@gatech,edu, mlvillegas@ucdavis.edu, mvillegas98825@gmail.com
+Emails: mvillegas34@gatech.edu, mlvillegas@ucdavis.edu, mvillegas98825@gmail.com
