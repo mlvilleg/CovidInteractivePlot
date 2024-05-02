@@ -19,7 +19,7 @@ Initially, I wanted to see if there was a difference in total benefit/loss due t
 
 The following SQLite output shows the top 5 losses and benefits by airline, and the amount of occurrences (cancellations/changes) from those airlines.
 
-![](gain_plot.png)
+![](project_screenshots/sql_output.png)
 
 At first glance, there does not seem to be a significant correlation between the number of cancellations and the amount of benefit/loss. To confirm, I ran the correlation function. The correlation confirmed my belief that there was no significant correlation between the number of cancellations/changes and the amount of benefit/loss. The correlation coefficient was -0.07, which shows a negative correlation but nevertheless not a significant amount. This graph gives us better insight into the relationship between the number of cancellations/changes and the amount of benefit/loss.
 
