@@ -26,7 +26,7 @@ At first glance, there does not seem to be a significant correlation between the
 ![](output/correlation_plot.png)
 
 
-As can be seen in this plot, the majority of airlines had little to no change in the benefit/loss, even if those airlines have close to 100 cancellations/changes. This can better be seen int the following histogram below:
+As can be seen in this plot, the majority of airlines had little to no change in the benefit/loss, even if those airlines have close to 100 cancellations/changes. This can better be seen in the following histogram below:
 
 ![](output/histogram.png)
 
