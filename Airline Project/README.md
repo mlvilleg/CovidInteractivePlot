@@ -26,7 +26,9 @@ At first glance, there does not seem to be a significant correlation between the
 ![](output/correlation_plot.png)
 
 
-As can be seen in this plot, the majority of airlines had little to no change in the benefit/loss, even if those airlines have close to 100 cancellations/changes.
+As can be seen in this plot, the majority of airlines had little to no change in the benefit/loss, even if those airlines have close to 100 cancellations/changes. This can better be seen int the following histogram below:
+
+![](output/histogram.png)
 
 This leads me to believe that the airlines with the most benefits/losses are outliers and not the norm. I confirmed this by identifying the outliers and found that all of the top five losses and three of the top benefits are indeed outliers
 
